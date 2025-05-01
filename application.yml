@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: default-config
+
 #configure of client registered with registry service
 eureka:
   instance:
